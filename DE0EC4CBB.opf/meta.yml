@@ -1,0 +1,22 @@
+id: DE0EC4CBB
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-04-18T11:12:24+00:00'
+last_modified: '2022-05-26T14:08:49.035112+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    38af:
+      image_group_id: I1PD95885
+      title: ལྷ་མོ་རིགས་བྱེད་མའི་སྒྲུབ་པའི་ཐབས།
+      total_pages: 1648
+      order: 40
+      base_file: 38af.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
